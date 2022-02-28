@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The noble pamphlet, or, a pigs head and a poppet-play, provided for the rebels at Westminster, against this Bartholmew Faire: a rattle for the foole Fairfax, halfe a bushell of nuts for the synod to crack, a new godly ballad for the saints of the army, and a paire of sharp knives for the city. By the author of the winding sheet.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92438</idno>
+            <idno type="STC">Wing R99B</idno>
+            <idno type="STC">Thomason E460_30</idno>
+            <idno type="STC">ESTC R205132</idno>
+            <idno type="EEBO-CITATION">99864570</idno>
+            <idno type="PROQUEST">99864570</idno>
+            <idno type="VID">162149</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92438)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162149)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E460[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The noble pamphlet, or, a pigs head and a poppet-play, provided for the rebels at Westminster, against this Bartholmew Faire: a rattle for the foole Fairfax, halfe a bushell of nuts for the synod to crack, a new godly ballad for the saints of the army, and a paire of sharp knives for the city. By the author of the winding sheet.</title>
+                  <author>R. B., attributed name.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to R.B. (Wing).</note>
+                  <note>Annotation on Thomason copy: "Aug ye 23th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="1" facs="tcp:162149:1" rendition="simple:additions"/>
+            <p>THE NOBLE PAMPHLET, <hi>Or,</hi> a PIGS HEAD and a POPPET-PLAY, Provided for the Rebels at WESTMINSTER, againſt this Bartholmew Faire: A Rattle for the Foole <hi>Fairfax,</hi> halfe a buſhell of Nuts for the <hi>Synod</hi> to crack, a new godly ballad for the Saints of the <hi>Army,</hi> and a paire of ſharp knives for the City.</p>
+            <p>By the Author of the winding ſheet.</p>
+            <q>
+               <l>Draw back this leaf, and ſee diſcover'd,</l>
+               <l>That which all this while hath hover'd:</l>
+               <l>Behind a cloud, here read and ſee,</l>
+               <l>The Iuntos, covert Treachery:</l>
+               <l>
+                  <hi>Fairfax</hi> his frauds, the Synods guile,</l>
+               <l>The Army's purpoſe all this while:</l>
+               <l>The Cities madneſſe, ſee in ſhort,</l>
+               <l>All this, and thank the Author for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+            </q>
+            <p>Printed in the yeere 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:162149:2"/>
+            <head>A Pigges-Head, and A POPPET-PLAY, Provided for the PARLIAMENT: againſt this Bartholmew Faire.</head>
+            <p>
+               <seg rend="decorInit">P</seg>Ardon, ye Rebels of either houſe, I aske you forgiveneſſe, ere I cut your throats, doe you not wonder at it, ile tell you I intend to hang you in effi<g ref="char:EOLhyphen"/>gie, till the wiſht for time arrive, that the ſubſtance ſupply the ſhad<g ref="char:EOLhyphen"/>dow, and eſteeming it no diſparage<g ref="char:EOLhyphen"/>ment to my function, to bee your executioner, I obſerve the heads-mans cuſtome for forme ſake, and ſuperficially crave your remiſſion:</p>
+            <lg>
+               <l>Thus doe I kneele, thus beg, ô cruel Turkes,</l>
+               <l>Who defie Pluto, yet doe all his workes:</l>
+               <l>Moſt zealous Rebels, whom the whole world curſes,</l>
+               <l>The bleſt Reformers of our plate, and purſes:</l>
+               <l>
+                  <hi>Geneva</hi>-Goblins, ſent to fright our ſoules,</l>
+               <l>And quaffe our purple blood in mazor bowles:</l>
+               <l>Who love your Prince, ſo well you wiſh him dead.</l>
+               <l>That ſo a wreath of ſtart might deck his head:</l>
+               <l>I do obſecrate you, yee fiend in clay,</l>
+               <l>No crimes upon my innocence to lay:</l>
+               <l>Not to bee angry though J call you kna<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es,</l>
+               <l>Cheaters, and murtherers, villains, and ſlaves:</l>
+               <l>Not to be mov'd with ire, you know that I,</l>
+               <l>Am but the inſtrument of Deſtin<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+            </lg>
+            <pb n="3" facs="tcp:162149:2"/>
+            <p>You had a plot upon the Poppets that ſhould have ador<g ref="char:EOLhyphen"/>ned S<hi rend="sup">t</hi>. <hi>James</hi> his faire, but it took not, for the tap-houſes were erected, the mutton-mongers reſorted, the Curtezans were jumbled, the good fellowes tipled, and the Oxe was roaſted, <hi>cum privilegio,</hi> tis faire time with you all the yeer long, and therefore no marvell if you envy all others profits, but I hope you will permit your aſſociates of the beloved City to make their mercats this next Bartholmew Faire, you know the matter is between you and them, as betweene the letcher and his whore, what he put in at the mouth goes out at the — ſo what they gaine by their trades inrich<g ref="char:EOLhyphen"/>eth your purſes, I have a ſtrong faith that you will ſhut up ſhop <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Weſtminſter</hi> for one day, and having laid aſide the grand affaires of cheating, and murthering the people ſpend ſome certaine houres in recreation, I am of the opinion, that it will much ſolace your tired ſpirits, whet your wits to invent ſtrange and unheard of ſtratagems, and quicken your greedy deſire of rule, I am confident you will come, and in certaine aſſurance thereof have provided you, a Piggs head, and a Poppet-play, heark in your ears.</p>
+            <p>'Tis a Pig of one of theſe ſowes, into whom your patron <hi>Pluto</hi> got, when he hurried a whole heard violently into the ſea, it ſhall be roaſted before the hot fire of Ambition, tur<g ref="char:EOLhyphen"/>ned about by the Sciſmatick Sedition, baſted by the Patri<g ref="char:EOLhyphen"/>arck Hypocriſie, the ſawce ſhall be prepared by the fat cook Sacriledge, it ſhall be uſherd by the grave verger Policy, and ſerv'd up by a penitent Skelleton, called, Too late to Re<g ref="char:EOLhyphen"/>pent, after you have ſufficiently eaten to your content, I have devized a Poppet play, tis thus:</p>
+            <p>The Sceane is <hi>England,</hi> the Actors are all Parliament-men, you may know them by their robes, and the fearfull characters written in their faces, they are attended by whole troopes of Committee-Cannibals, Exciſe-men, Meſſengers or, Pettifoggers, Rogues, and R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcals, their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will be
+<pb n="4" facs="tcp:162149:3"/>to work upon the giddy ſpirits of the people, and to inveigh their floating braines, that the preſent Government, burthen<g ref="char:EOLhyphen"/>ſome Ariſtocraticall cruell and tyrannous, they will under<g ref="char:EOLhyphen"/>hand deale with them by their agents earneſtly to petition, that failing to threaten the ruine of their King and his po<g ref="char:EOLhyphen"/>ſterity, unleſſe he preſently yeeld his aſſent, for the ſatisfa<g ref="char:EOLhyphen"/>ction of their deſires, the King beholding the evils of their intents, for the preſervation of his own, his Queen, and chil<g ref="char:EOLhyphen"/>drens lives, leaves his chief Metropolis, and betakes himſelf to a place of ſafety, his Parliament inwardly glad at his de<g ref="char:EOLhyphen"/>parture, petition the people to petition them that the Go<g ref="char:EOLhyphen"/>vernment of the Church be alter'd that a moſt incompara<g ref="char:EOLhyphen"/>ble Stateſman, and a moſt unworthy pillar of the Church be put to death, which is performed, the one propheſieth, and the other preacheth at the ſcaffold, or place of execution, this bloody buſineſſe over, they proceed to take away the fundamentall lawes of the land, Root and branch, their King perceiving their treacheries, declareth againſt them, dubbing them with the due epithites of Rebels and Traytors, the people deluded by their pretences, crie up their cauſe as the cauſe of Gods, Armies are by them immodiately levied, a cuckoldly Lord choſen for their General, and all the land turned into a confuſion, their pious Prince (conſtrained thereto for his own ſafety) raiſeth forces to oppoſe them, the chief gentry of the land ſide with them, he fights with the Rebels for the ſpace of ſeven yeares, (to the exceeding decay of his people, and to his great grief of Soule) yet at laſt might [according to the proverb] overcomes right, he is totally ſubdued, and forced to flie for ſhelter amongſt his owne Countreymen, they unworthily deſert him, and return him into his enemies hand for money, they clap him up cloſe priſoner, and like baſe villaines, make a mock at his miſery, he is beaten and receiveth a black eye, of his jailor, a ſlave, (whom ere this play conclude) I preſent unto you
+<pb n="5" facs="tcp:162149:3"/>torne to pieces by dogs, in the meane time the earth is made drunke with the blood of Innocents prodigally ſhed by command of the Rebels, all order and diſcipline is taken away, the miniſters of God are murthered and ſilenced, and mechanick Scums, viz. Tailers, weavers, and mopmakers, take upon them the ſacred function of the miniſtery, and in<g ref="char:EOLhyphen"/>fect the people, with nonſenſe, blaſphemy, and Treaſon, while the Rebels ſqueeze out the hearts bloods of the poore Communality, by taxations, exciſe, contributions, loanes, plunders, and free-quarter, and fatten themſelves inmiſchief wallowing in all exceſſe of riot, impoveriſhing the nation, and cramming their own bags till they ſtrut againe, and in hope to take away Monarchicall Government, and to make themſelves <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> State, they vote they will ſettle the kingdome without their King, neither make any addreſſes to him, or receive any meſſage from him, the people perceiving into what a bondage they are brought become as zealous haters as before they were lovers of the Rebels, they begin to cogi<g ref="char:EOLhyphen"/>tate the happy dayes they enjoyed under the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r moſt gracious King, and curſe themſelves that ere they rebelled againſt him, reſolving to pull downe theſe tyrants, whom they had advanced, and [if it be poſſible] to recover their King, loſt lawes and liberties, they generally riſe, threatning ven<g ref="char:EOLhyphen"/>geance againſt their bloody oppreſſors, who to deferre their puniſhment, vote that they will treat with their King, the people ſee it, and laugh at their gullery, and perfidious hy<g ref="char:EOLhyphen"/>pocriſie, they fetch their King to <hi>London,</hi> with all honour and due reſpects, ceaze on the Rebels, and clap them in the dungeon, reſtore their King to his rights, and ſurrender them to the gallowes, this is the plot of the play I intend to pre<g ref="char:EOLhyphen"/>ſent you with, the Poppets are ſet on ſcrewes, and have their motion by a crabbed fellow, called, the Crittick obſerver, they are preſented by Fame, and their ſeverall morions ex<g ref="char:EOLhyphen"/>plained by truth.</p>
+            <pb n="6" facs="tcp:162149:4"/>
+            <lg>
+               <l>How like you this, this cannot ſure affright you,</l>
+               <l>Alas you know I ſtudy to delight you.</l>
+            </lg>
+            <p>I am not without hopes, but <hi>Tom Fairfax</hi> will make a ſhift to halt to this Faire, to make merry with your memberſhips, I have provi<g ref="char:EOLhyphen"/>ded the trayterous foole a rattle, which I will thus beſtow upon him.</p>
+            <lg>
+               <l>Degenerate villaine, perjur'd ſlave,</l>
+               <l>Thou monſtrous Aſſe, (yet cunning knave)</l>
+               <l>Curſt in thy mothers womb, who brought,</l>
+               <l>A fire-brand forth, thou that haſt ſought:</l>
+               <l>To ſtrike thy King, and nation dead,</l>
+               <l>Ore them in triumph for to tread:</l>
+               <l>Who with thy ſword doſt juſtifie,</l>
+               <l>The Rebels in their Treachery:</l>
+               <l>Yet at St. <hi>Albans</hi> once didſt ſweare,</l>
+               <l>To God, thy King, and all were there,</l>
+               <l>For to ſupplant the Rebels hopes.</l>
+               <l>And for to pull out all their props:</l>
+               <l>To be the thunderbolt of Fate,</l>
+               <l>And <hi>Charles</hi> thy Lord, to re-inſtate,</l>
+               <l>Thy ruine's neere, which all ſhall ſee,</l>
+               <l>Meane time, take this [forc'd gift] of mee.</l>
+            </lg>
+            <p>Nor are the Synodicall ſimplicians (I hope ſo Stoicall, but they will be pleaſed alſo, to accompany your grand Re<g ref="char:EOLhyphen"/>belſhips in this invitation, come be not nice, wee know, yee hypocrites, that you have fat whores, as well as larded benefices, and prefer your God belly, before the Almighty <hi>Iehovah,</hi> you knew well enough that the outing of the Bi<g ref="char:EOLhyphen"/>ſhops from their Sees, would prove your entrance into wealthy livings, while thoſe who formerly injoyed them, whoſe learning and Loyalty pronounceth them worthy of honours and profits, wander about the kingdome like for<g ref="char:EOLhyphen"/>lorne wretches, languiſh in priſon or beg their dayly bread of men, I have a thing within me, whiſpers you will come, againſt which time, I have provided you halfe a buſhell of ſuch Nuts as theſe to crack:</p>
+            <p>The firſt will prove a terror to your teeth, tis this, <hi>whether or no th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wout the whole Booke of God, there be any warrant, any one preſident or colourable example, that a Subject [without the hazard of Soule] may riſe in actuall Rebellion againſt his
+<pb n="7" facs="tcp:162149:4"/>Soveraigne, upon any pretence, or for the attaining of any end [tend it nere ſo much to the glory of God, and his Countries welfare [and whether the Rebels at</hi> Weſtminſter, <hi>who have pretended both yet have performed neither, are not lyable, there<g ref="char:EOLhyphen"/>fore to puniſhment here, and hereafter?</hi>
+            </p>
+            <p>
+               <hi>Whether your ſelves ought to be cenſured even to agravation, for convening your ſelves together in oppoſition to the Biſhops Government, yea, whether you ought not to haue your ears naild for perjury, in that you have, [contrary to your oathes taken at the time of your commencement, and when you received Or<g ref="char:EOLhyphen"/>ders] beene the principall authors of the Biſhops ejectment, and the ſtirrers up of the people against the Book of</hi> Co<g ref="char:cmbAbbrStroke">̄</g>mon-Prayer, <hi>with the decent rites, and neceſsary Ceremonies of the Church?</hi>
+            </p>
+            <p>Thirdly, <hi>Whether hee that feares not God, can honour the King, (I meane knowingly, and as a Chriſtian ought) and whe<g ref="char:EOLhyphen"/>ther hee that honours the King [in order aforeſaid] can be o<g ref="char:EOLhyphen"/>ther thou a fearer of God.</hi>
+            </p>
+            <lg>
+               <l>Theſe are the prime Nuts, pray crack them firſt;</l>
+               <l>Then take the reſt, and feed untill you burſt.</l>
+            </lg>
+            <p>But (for that I know) the black Saints of the Army are not at leaſure to leave <hi>Colcheſter</hi> as yet, I ſhall not expect their company at the Faire, but as a tender of my love, I ſend them this Ballad, which I would have them ſing, <hi>to the tune of a Song,</hi> J writ ſome yeares ſince called, <hi>I would if I could.</hi>
+            </p>
+            <lg>
+               <head>England.</head>
+               <l>Moſt bleſſed knaves,</l>
+               <l>Who dig the graves:</l>
+               <l>For Loyalty and reaſon,</l>
+               <l>You errant holy Zealots,</l>
+               <l>Who hug [the varlet] Treaſon.</l>
+               <l>Shall vertue ſuffer ſtill,</l>
+               <l>
+                  <hi>England</hi> unto your will:</l>
+               <l>Shall plunderers bear ſway,</l>
+               <l>And Loyalty obey.</l>
+            </lg>
+            <lg>
+               <head>Army.</head>
+               <l>Weel nere aſſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, our Parlement</l>
+               <l>Shall be adjou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed quite,</l>
+               <l>For who ſhall vote us money,</l>
+               <l>As tis moſt requiſite,</l>
+               <l>Weel rule you all by force,</l>
+               <l>While we are foot and horſe:</l>
+               <l>Your wives, your goods are ours,</l>
+               <l>Inthral<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into our powers.</l>
+            </lg>
+            <lg>
+               <head>England.</head>
+               <l>Therefore ye goates,</l>
+               <l>Weel cut your throats,</l>
+               <l>And <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ead you ſwift to h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll:</l>
+               <l>For a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> your Baſe projections,</l>
+               <l>No age can paral<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</l>
+               <l>Weel mince you to the pot,</l>
+               <l>And hang you up by lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</l>
+               <l>Your <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly hides weel ore.</l>
+               <l>And kill you, ore and ore.</l>
+            </lg>
+            <pb n="8" facs="tcp:162149:5"/>
+            <p>My tame wittols of the City, I am certainly aſſured to have ſtore of you at this Faire, with your Faire wives in your wooden houſes, and for you, for that I find now that you begin ſomewhat to bee reformed cleane contrary to the intents of your Reformers, after you have wearied your ſelves in iniquity you are now ſat down to count your gains &amp; find you have accrewed nothing but iron in your wounds and gunpowder in your noſtrils, having exchanged your li<g ref="char:EOLhyphen"/>berty for ſlavery, your King for Tyrants, your God for Be<g ref="char:EOLhyphen"/>ſial, and your honour for ſhame, I ſay ſince I ſee you have now found your error, and reſolve no longer to be ridden &amp; exhauſted, I ſhall beſtow upon you theſe pair of knives.</p>
+            <p>They are exceedingly well temper'd and of an exquiſite forme, faſhioned by a moſt accompliſht Artiſt, call'd, Self Preſervation, with one of them I ſhould have you to cut holes in the skins of thoſe deſperate and bloody Sectaries of the Army, as alſo of thoſe under the conduct of the Trea<g ref="char:EOLhyphen"/>cherous Saint <hi>Skippon,</hi> all whom are ingaged by oath to rob and plunder you, in caſe you ſhall not joyn with them in their damnable intents, for the depoſing the King, for extir<g ref="char:EOLhyphen"/>pating the Nobility, for the ſetting up of a boundles Inde<g ref="char:EOLhyphen"/>pendency, &amp; for the attaining a parrity without nomination.</p>
+            <p>With the other I would have you to ſalute the Rebels of the lower Houſe, as Ioab did Abner, and to be of the ſame mind that <hi>Ireton</hi> once was of [when the Army and you were at difference] to purge and purge, and never leave purging the Houſes, till you quite roote out all the Regecides, and bloody deſtroyers there.</p>
+            <lg>
+               <l>That don, with ſpeed to ſearch the land,</l>
+               <l>And ſtab all Traytors out of hand:</l>
+               <l>Then to bring home your King in Peace,</l>
+               <l>All hoſtile actions for to ceaſe:</l>
+               <l>Place him in throne, the Church reſtore,</l>
+               <l>Vnto her Paſtors as before t</l>
+               <l>Recover your loſt lawes age<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Which don, be happy joyfull men.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
